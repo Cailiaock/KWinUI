@@ -1,4 +1,4 @@
 ##KWinUI
 
-Host: [http://openwares.net/kwinui](
+Host: [http://openwares.net/kwinui]
 
